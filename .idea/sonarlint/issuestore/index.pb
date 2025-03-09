@@ -11,3 +11,5 @@ _
 /contracts/dimensional-translation-protocol.clar,c/f/cf92a2a5936b80245cec3fb4384b72476eb8088d
 ^
 .tests/dimensional-translation-protocol.test.ts,4/a/4ac17d1833d9aaf39bc68682dcbcde3b9a790f9b
+a
+1contracts/reality-compatibility-verification.clar,e/e/eeb750cc3e9939cc6c8f2ec615ef68755d119f8f
