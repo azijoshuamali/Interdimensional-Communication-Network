@@ -13,3 +13,5 @@ _
 .tests/dimensional-translation-protocol.test.ts,4/a/4ac17d1833d9aaf39bc68682dcbcde3b9a790f9b
 a
 1contracts/reality-compatibility-verification.clar,e/e/eeb750cc3e9939cc6c8f2ec615ef68755d119f8f
+`
+0tests/reality-compatibility-verification.test.ts,3/0/308480a082dbaedff3375054ec385acc2f0a5f97
