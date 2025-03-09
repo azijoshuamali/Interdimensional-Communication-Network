@@ -15,3 +15,5 @@ a
 1contracts/reality-compatibility-verification.clar,e/e/eeb750cc3e9939cc6c8f2ec615ef68755d119f8f
 `
 0tests/reality-compatibility-verification.test.ts,3/0/308480a082dbaedff3375054ec385acc2f0a5f97
+d
+4contracts/interdimensional-bandwidth-allocation.clar,b/8/b83d1c39558faaa584d7ca7ccb4ec31cb20a51e5
