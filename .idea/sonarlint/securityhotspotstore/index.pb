@@ -9,3 +9,5 @@
 +tests/cross-reality-message-routing.test.ts,e/a/ea1f1101b4956aa969dd4ce14f12a4e11d2cbb27
 _
 /contracts/dimensional-translation-protocol.clar,c/f/cf92a2a5936b80245cec3fb4384b72476eb8088d
+^
+.tests/dimensional-translation-protocol.test.ts,4/a/4ac17d1833d9aaf39bc68682dcbcde3b9a790f9b
